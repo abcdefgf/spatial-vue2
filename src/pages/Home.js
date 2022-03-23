@@ -91,7 +91,7 @@ const Home = () => {
           <div className="container">
           <div className="row justify-content-center text-center">
           <div className="col-10 col-md-8">
-              <h3 className="fs-2 fs-lg-3">Welcome to the SpatialVue</h3>
+              <h3 className="fs-2 fs-lg-3">Key Features of Spatial Vue </h3>
               <p className="px-lg-4 mt-3" style={{fontSize: '20px', color: '#000 !important'}}>An enterprise Web GIS platform developed using OGC standards such as WMS, WFS, and WPS and is compatible with all OGC compliant commercial and open source web mapping engines .</p>
               <hr className="short" data-zanim-trigger="scroll" />
             </div>
