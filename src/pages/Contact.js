@@ -30,17 +30,7 @@ const Contact = () => {
                 </section>
 
                 <main className="main" id="top">
-                    <div className="preloader" id="preloader">
-                        <div className="loader">
-                        <div className="line-scale">
-                            <div />
-                            <div />
-                            <div />
-                            <div />
-                            <div />
-                        </div>
-                        </div>
-                    </div>
+                    
                         {/* ============================================*/}
                         {/* <section> begin ============================*/}
                         <section className="bg-100">

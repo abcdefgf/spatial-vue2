@@ -11,17 +11,7 @@ const Features = () => {
             <Header />
             <div>
             <main className="main" id="top">
-            <div className="preloader" id="preloader">
-                        <div className="loader">
-                        <div className="line-scale">
-                            <div />
-                            <div />
-                            <div />
-                            <div />
-                            <div />
-                        </div>
-                        </div>
-                    </div>
+            
 
             <section>
                 <div className="bg-holder overlay" style={{backgroundImage: 'url(assets/img/background-2.jpg)', backgroundPosition: 'center bottom'}} />
