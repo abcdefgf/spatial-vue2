@@ -1,0 +1,36 @@
+.overflow-hidden {
+    /* background: rgb(255 255 255 / 70%); */
+    /* padding: 50px; */
+}
+.overflow-hidden h1 {
+    font-size: 42px !important;
+    letter-spacing: normal;
+}
+.cursor_pointer{
+    cursor: pointer;
+}
+.overflow-hidden h5{
+    font-size: 16px;
+}
+.nav-item a{
+    margin-left: 20px;
+    margin-right: 20px;
+} 
+.nav-item a.active{
+    color: #c34434;
+}
+.active{
+    color: #c34434;
+}
+.card-img-top{
+    border-bottom: 1px solid #b7b7b7;
+}
+.bg-orange2{
+    background: #eebf0d !important;
+}
+.bg_magenda{
+    background: #ffe267 !important;
+}
+.padding_right_4{
+    margin-right: 22px;
+}
